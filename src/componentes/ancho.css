@@ -1,0 +1,22 @@
+.ancho {
+    
+    max-width: 250px; 
+    overflow: hidden;
+}
+.icon {
+    margin-left: 20px;
+}
+
+.mono {
+    background-color: #dddddd;
+    font-family: 'FontAwesome';
+    font-weight: 100;
+}
+.producto {
+    max-width: 150px; 
+    overflow: hidden;
+}
+
+.btnCerrar {
+    letter-spacing:3px;
+}
